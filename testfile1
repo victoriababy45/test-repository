@@ -1,3 +1,0 @@
-#!/bin/bash
-read -p "enter filename" fn
-i got it
